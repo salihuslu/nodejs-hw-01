@@ -10,4 +10,4 @@ const generateContacts = async (count = 5) => {
     console.log(`${count} new contacts generated!`);
 };
 
-generateContacts(5);
+generateContacts();
